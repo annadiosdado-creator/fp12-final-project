@@ -6,6 +6,8 @@ Some text here. This will be **your introduction** to your project.
 
 Some more text here.
 
+![This is chart showing something](chart1_business_type.png)
+
 ### This slightly smaller heading
 
 For this spreadsheet, I used `=DATE(A2,A3,A4)` forumula. And here is a link to the [J-School Website](https://journalism.berkeley.edu)
